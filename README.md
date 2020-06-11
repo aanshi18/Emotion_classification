@@ -1,2 +1,2 @@
 # Emotion_classification
- It recignize the emotions of people
+ It recognize the emotions of people
